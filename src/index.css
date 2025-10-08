@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+.allcontainer {
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+}
