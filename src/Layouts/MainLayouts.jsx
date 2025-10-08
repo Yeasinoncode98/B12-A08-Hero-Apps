@@ -4,6 +4,8 @@ import Navbar from "../Componants/Navbar";
 import { Outlet } from "react-router";
 import Footer from "../Componants/Footer";
 
+// Controlling the outlet from here for better and fast 
+
 const MainLayouts = () => {
   return (
     <div className="min-h-screen flex flex-col">
