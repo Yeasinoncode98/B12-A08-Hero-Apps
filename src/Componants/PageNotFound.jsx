@@ -1,6 +1,7 @@
 import React from "react";
 import pageNotFound from "../assets/error-404.png";
 import { Link } from "react-router";
+// Page not found works from here
 const PageNotFound = () => {
   return (
     <div className="h-full flex flex-col justify-center items-center space-y-5 text-center">
