@@ -6,7 +6,7 @@ import Home from "../Pages/Home";
 import AllApps from "../Pages/AllApps";
 import Detailes from "../Pages/Detailes";
 import Installtion from "../Pages/Installtion";
-import AppNotFound from "../Componants/AppNotFound";
+// import AppNotFound from "../Componants/AppNotFound";
 
 export const route = createBrowserRouter([
   {
