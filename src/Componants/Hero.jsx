@@ -20,6 +20,7 @@ const Hero = () => {
           into digital experiences that truly make an impact.
         </p>
         <div className="space-x-3 mt-5">
+          {/* Image and playstore and appstore link added  */}
           <a
             href="https://play.google.com/store/games?hl=en&pli=1"
             className="btn"
