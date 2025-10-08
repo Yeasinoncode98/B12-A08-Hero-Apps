@@ -1,28 +1,42 @@
 [
+{
+  "image": "https://i.ibb.co/35Tnghtg/demo-app-1.webp",
+  "title": "Rabit TV",
+  "companyName": "RabitHole, BD.",
+  "id": 1,
+  "description": "Rabit TV is a modern streaming app that brings live TV channels, movies, and series directly to your mobile device. It provides high-quality streaming, an easy-to-use interface, and a vast library of content from local and international broadcasters. Users can enjoy live sports, news, entertainment, and more, anytime and anywhere.\n\nThe app features personalized recommendations, multiple language support, and bookmarking to save your favorite shows. Rabit TV also supports casting to smart TVs and includes parental controls for safe viewing. With regular updates, the app keeps adding new content and features to enhance the viewing experience.\n\nFor anyone looking for a convenient and reliable TV streaming solution, Rabit TV offers variety, quality, and accessibility in one app. It’s perfect for catching your favorite programs on the go or relaxing at home.",
+  "size": 120,
+  "reviews": "1M",
+  "ratingAvg": 4.4,
+  "downloads": "10M+",
+  "ratings": [
+    {"name": "1 star", "count": 50000},
+    {"name": "2 star", "count": 20000},
+    {"name": "3 star", "count": 80000},
+    {"name": "4 star", "count": 220000},
+    {"name": "5 star", "count": 650000}
+  ]
+}
+,
   {
-    "image": "https://i.ibb.co.com/35Tnghtg/demo-app-1.webp",
-    "title": "Rabit TV",
-    "companyName": "RabitHole, BD.",
-    "id": 1,
-    "description": "WhatsApp Messenger offers a fast, simple, and secure way to connect with people globally. Built on the principle of private communication, it uses end-to-end encryption to ensure that only you and the person you're communicating with can read or listen to what is sent. Beyond one-on-one chats, it supports robust group chats, high-quality voice and video calls, and Status updates to share moments from your day. It’s a complete communication tool designed to be reliable even on slow networks, making it an essential part of daily life for billions.\n\nA key feature of WhatsApp is its versatility. Users can share photos, videos, documents, and voice messages effortlessly. The platform has expanded to include WhatsApp Business, allowing small companies to connect with their customers professionally. Group video calls connect up to eight people, making it easy to stay in touch with family, friends, or colleagues. The app is also entirely ad-free, focusing purely on providing a seamless and uninterrupted communication experience across mobile and desktop devices through its web and desktop apps.\n\nFor anyone looking for a dependable and private communication tool, WhatsApp is the go-to choice. It bridges geographical distances, allowing you to have personal conversations or manage professional discussions without worrying about privacy or cost. Its simple interface makes it accessible to all ages, while its powerful features ensure it can handle all your messaging needs. It's more than just an app; it's a vital link to the people who matter most, keeping you connected anytime, anywhere.",
-    "size": 55,
-    "reviews": "180.5M",
-    "ratingAvg": 4.7,
-    "downloads": "5B+",
-    "ratings": [{"name": "1 star", "count": 3610877}, {"name": "2 star", "count": 3610877}, {"name": "3 star", "count": 7221755}, {"name": "4 star", "count": 21665265}, {"name": "5 star", "count": 144435099}]
-  },
-  {
-    "image": "https://i.ibb.co.com/m5Bvzx56/demo-app-2.webp",
-    "title": "Tree Plant App",
-    "companyName": "Roxy and Sons, Inc.",
-    "id": 2,
-    "description": "Instagram is a vibrant social network centered around sharing visual stories through photos and videos. It provides a platform for users to express their creativity, share life moments, and connect with a global community. The core of the experience is the feed, where you see updates from friends, family, and creators you follow. The platform has evolved beyond simple photo sharing, becoming a cultural hub where trends are born, and new ideas are discovered. Its design is intuitive and visually driven, encouraging users to capture and share the world around them beautifully.\n\nA unique strength of Instagram lies in its diverse content formats. 'Stories' allow for ephemeral, day-in-the-life updates, while 'Reels' offer a space for short, entertaining videos powered by a vast library of music and effects. For longer content, there's IGTV. The platform also features robust direct messaging, shopping capabilities that turn inspiration into purchase, and powerful creative tools like AR filters. This multi-faceted approach allows creators and users to engage in a variety of ways, from casual sharing to building a professional brand.\n\nFor those who want to connect visually, Instagram is an indispensable tool. It’s a place to find inspiration for your hobbies, follow the journeys of your favorite personalities, and stay updated on the latest in fashion, food, and travel. By combining social networking with powerful creative tools and e-commerce, Instagram offers a dynamic space where you can not only consume content but also create, share, and connect in a meaningful and visually compelling way.",
-    "size": 85,
-    "reviews": "142.1M",
-    "ratingAvg": 4.5,
-    "downloads": "1B+",
-    "ratings": [{"name": "1 star", "count": 5684395}, {"name": "2 star", "count": 4263296}, {"name": "3 star", "count": 7105493}, {"name": "4 star", "count": 18474283}, {"name": "5 star", "count": 106582409}]
-  },
+  "image": "https://i.ibb.co/m5Bvzx56/demo-app-2.webp",
+  "title": "Tree Plant App",
+  "companyName": "Roxy and Sons, Inc.",
+  "id": 2,
+  "description": "Tree Plant App is designed to help users contribute to a greener planet by tracking tree planting activities and learning about different tree species. The app provides step-by-step guidance on planting, caring for, and monitoring the growth of trees. It encourages environmental responsibility and community engagement through challenges, achievements, and sharing features.\n\nKey features include a personalized dashboard to track your planted trees, educational resources about tree care, and notifications to remind you when a tree needs attention. Users can also join local or global tree planting initiatives and connect with other eco-conscious users.\n\nFor anyone passionate about the environment, Tree Plant App offers a simple and engaging way to make a positive impact. Whether planting in your backyard or participating in community initiatives, this app helps you grow a greener future, one tree at a time.",
+  "size": 85,
+  "reviews": "1.2M",
+  "ratingAvg": 4.6,
+  "downloads": "5M+",
+  "ratings": [
+    {"name": "1 star", "count": 20000},
+    {"name": "2 star", "count": 10000},
+    {"name": "3 star", "count": 50000},
+    {"name": "4 star", "count": 150000},
+    {"name": "5 star", "count": 1000000}
+  ]
+}
+,
 {
   "image": "https://i.ibb.co.com/397GBJYK/Player-Unknown-s-Battlegrounds-Mobile-webp.png",
   "title": "PUBG MOBILE",
