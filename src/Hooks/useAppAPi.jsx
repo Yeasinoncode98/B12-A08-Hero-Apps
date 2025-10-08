@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
+// Used axios and created hooks for reUse
 export const useAppApi = () => {
   const [app, setApp] = useState([]);
   const [loading, setLoading] = useState(true);
