@@ -186,16 +186,6 @@ const Installtion = () => {
               <option value="high">High to Low</option>
               <option value="low">Low to High</option>
             </select>
-
-            {/* <select
-              className="px-4 py-2 border border-gray-300 rounded-md outline-none focus:outline-none focus:border-[#00D390] bg-white"
-              value={sortItem}
-              onChange={(e) => setSortItem(e.target.value)}
-            >
-              <option value="none">Sort by Size</option>
-              <option value="high">High to Low</option>
-              <option value="low">Low to High</option>
-            </select> */}
           </label>
         </div>
         {matchedData.length === 0 && (
