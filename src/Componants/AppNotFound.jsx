@@ -2,6 +2,7 @@ import React from "react";
 import appFound from "../assets/App-Error.png";
 import { Link, useNavigate } from "react-router";
 
+// App Not Found works from here
 const AppNotFound = () => {
   const navigate = useNavigate();
 
@@ -24,5 +25,3 @@ const AppNotFound = () => {
 };
 
 export default AppNotFound;
-
-
