@@ -59,6 +59,8 @@ const Installtion = () => {
     }
   };
 
+
+
   return (
     <div className="max-w-[1420px] mx-auto max-sm:p-3">
       <div className="mt-[70px] space-y-3">

@@ -4,6 +4,8 @@ import { useParams } from "react-router";
 import { useAppApi } from "../Hooks/useAppAPi";
 import DetailesCard from "../Componants/DetailesCard";
 import RatingChart from "../Componants/RatingChart";
+// import errorImage from '../assets/error-404'
+import pageNotFound from "../assets/error-404.png";
 
 const Detailes = () => {
   const { id } = useParams();
@@ -13,7 +15,13 @@ const Detailes = () => {
   const findData = app.find((data) => data.id === Number(id));
 
   if (!findData) {
-    return <p className="text-center p-10">Loading...</p>;
+    return (
+      <div className="flex flex-col justify-center items-center p-10">
+        <img src={pageNotFound} alt="Page not found" />
+        <h1 className="text-4xl font-bold mt-6">Oops, page not found!</h1>
+        <p className="mt-2">The page you are looking for is not available.</p>
+      </div>
+    );
   }
 
   const ratingData = findData.ratings;
