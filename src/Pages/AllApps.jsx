@@ -44,7 +44,7 @@ const AllApps = () => {
 
   if (loading) {
     return (
-      <div className="flex justify-center items-center h-screen">
+      <div className="flex justify-center items-center h-screen mt-[50px]">
         <span className="loading loading-spinner loading-lg"></span>
       </div>
     );
