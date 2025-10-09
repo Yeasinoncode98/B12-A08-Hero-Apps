@@ -17,5 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # B12-A08-Hero-Apps
 
 ## Live Link of Netlify -->
-## --->
- <!-- https://b12-a08-hero-app.netlify.app/ -->
+## ---> https://b12-a08-hero-app.netlify.app/
+
