@@ -101,22 +101,7 @@ const Installtion = () => {
       </div>
 
       <div>
-        {/* <div className="flex justify-between">
-          <h1 className="font-bold text-2xl">
-            {matchedData.length} Apps Found
-          </h1>
-          <label className=" form-control w-full max-w-xs outline-0">
-            <select
-              className="select select-bordered outline-none "
-              value={sortItem}
-              onChange={(e) => setSortItem(e.target.value)}
-            >
-              <option value="none">Sort by Downloads</option>
-              <option value="downloads-high">High to Low</option>
-              <option value="downloads-low">Low to High</option>
-            </select>
-          </label>
-        </div> */}
+       
 
         <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-between">
           <h1 className="font-bold text-2xl text-center sm:text-left">
