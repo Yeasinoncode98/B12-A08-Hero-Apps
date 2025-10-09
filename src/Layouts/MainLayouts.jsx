@@ -4,7 +4,7 @@ import Navbar from "../Componants/Navbar";
 import { Outlet } from "react-router";
 import Footer from "../Componants/Footer";
 
-// Controlling the outlet from here for better and fast
+// Controlling the outlet from here for better performance and fast
 
 const MainLayouts = () => {
   return (

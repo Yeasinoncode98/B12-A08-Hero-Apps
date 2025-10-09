@@ -101,8 +101,6 @@ const Installtion = () => {
       </div>
 
       <div>
-       
-
         <div className="flex flex-col items-center gap-3 sm:flex-row sm:justify-between">
           <h1 className="font-bold text-2xl text-center sm:text-left">
             {matchedData.length} Apps Found
@@ -140,5 +138,3 @@ const Installtion = () => {
 };
 
 export default Installtion;
-
-//..............
