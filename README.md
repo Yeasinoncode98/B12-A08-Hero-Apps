@@ -69,8 +69,7 @@ Hero_Apps is a modern, responsive web application built with React that showcase
 7. Lucide React – https://lucide.dev/
 8. Recharts – https://recharts.org/en-US/
 9. React Toastify – https://fkhadra.github.io/react-toastify/
-10.JSON Data – https://www.json.org/json-en.html
-11.Axios – https://axios-http.com/
+10.Axios – https://axios-http.com/
 
 
 ## Live Link of Netlify -->
