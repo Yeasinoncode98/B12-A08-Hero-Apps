@@ -55,7 +55,7 @@ const AllApps = () => {
       <div className="max-w-[1440px] mx-auto px-4">
         <div className="mt-[70px] space-y-3 text-center">
           <h1 className="font-bold text-4xl">Our All Applications</h1>
-          <p className="text-gray-300">
+          <p className="text-gray-500">
             Explore All Apps on the Market developed by us. We code for Millions
           </p>
         </div>

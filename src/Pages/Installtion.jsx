@@ -17,15 +17,18 @@ const Installtion = () => {
     setInstalledIds(getStoredData());
   }, []);
 
-  // Add artificial delay to make spinner visible longer
-  useEffect(() => {
-    if (!loading) {
-      const timer = setTimeout(() => {
-        setIsLoading(false);
-      }, 800); // 800ms delay for slower loading effect
+  // Delay to make spinner visible longer
 
-      return () => clearTimeout(timer);
-    }
+  useEffect(() => {
+    if (loading) return;
+    let timer;
+
+    setIsLoading(true);
+    timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 700);
+
+    return () => clearTimeout(timer);
   }, [loading]);
 
   const data = getStoredData();
@@ -85,7 +88,7 @@ const Installtion = () => {
   // Show loading spinner
   if (isLoading) {
     return (
-      <div className="flex justify-center items-center min-h-screen">
+      <div className="flex justify-center items-center min-h-screen ">
         <span className="loading loading-spinner loading-lg"></span>
       </div>
     );
