@@ -4,6 +4,7 @@
   themes: light --default;
 }
 
+/* Container class  */
 .allcontainer {
   max-width: 1440px;
   margin: 0 auto;
