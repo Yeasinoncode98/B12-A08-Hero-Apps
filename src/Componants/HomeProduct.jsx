@@ -20,12 +20,12 @@ const HomeProduct = ({ data }) => {
         <div className="card-body">
           <h2 className="text-xl font-bold">{data.title}</h2>
 
-          <div className="flex justify-between space-x-35 w-full mt-3">
-            <p className="text-green-400 flex justify-center border rounded  items-center">
+          <div className="flex justify-between space-x-35 w-full mt-3 ">
+            <p className="text-green-400 flex justify-center border rounded  items-center gap-2 ">
               <img className="h-[17px]" src={downloadIcon} alt="" />{" "}
               {data.downloads}
             </p>
-            <p className="text-orange-400 flex justify-center items-center border rounded">
+            <p className="text-orange-400 flex justify-center items-center border rounded gap-2 ">
               <img className="h-[17px]" src={ratingIcon} alt="" />{" "}
               {data.ratingAvg}
             </p>

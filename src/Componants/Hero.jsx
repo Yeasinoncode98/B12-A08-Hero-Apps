@@ -14,10 +14,11 @@ const Hero = () => {
           </span>{" "}
           Apps
         </h1>
-        <p className="text-center mt-5">
+        <p className="text-center mt-5 text-gray-500">
           At Hero.io we craft innovative apps designed to make everyday life
-          simpler, smarter, and more exciting.Our goal is to turn your ideas
-          into digital experiences that truly make an impact.
+          simpler, smarter, and more exciting. <br />
+          Our goal is to turn your ideas into digital experiences that truly
+          make an impact.
         </p>
         <div className="space-x-3 mt-5">
           {/* Image and playstore and appstore link added  */}
@@ -43,7 +44,7 @@ const Hero = () => {
 
         <div className="flex space-x-30 max-sm:space-x-0 max-sm:space-y-10  text-center max-sm:flex-col">
           <div className="space-y-1">
-            <h1 className="text-sm text-gray-300">Total DOwnloads</h1>
+            <h1 className="text-sm text-gray-300">Total Downloads</h1>
             <h1 className="font-bold text-4xl">19.6M</h1>
             <h1 className="text-sm text-gray-300">21% More Than Last Month</h1>
           </div>
