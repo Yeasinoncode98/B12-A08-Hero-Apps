@@ -26,7 +26,7 @@ const Installtion = () => {
     setIsLoading(true);
     timer = setTimeout(() => {
       setIsLoading(false);
-    }, 700);
+    }, 500);
 
     return () => clearTimeout(timer);
   }, [loading]);

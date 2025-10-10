@@ -440,7 +440,65 @@
     {"name": "4 star", "count": 200000},
     {"name": "5 star", "count": 750000}
   ]
+},
+
+{
+  "image": "https://i.ibb.co.com/Q73WYKny/download-7.jpg",
+  "title": "Bijoy 71: Hearts of Heroes",
+  "companyName": "Bijoy Interactive",
+  "id": 29,
+  "description": "Bijoy 71: Hearts of Heroes is a narrative-driven action-adventure game inspired by the courage and stories of 1971. Players follow multiple characters through cinematic missions, tactical skirmishes, and emotionally charged moments that highlight bravery, sacrifice, and hope. The game blends stealth, teamwork-based combat, and exploration across varied environments—rural villages, rivers, and urban streets—delivering a respectful and immersive historical experience.\n\nFeaturing a story-rich single-player campaign, collectible journal entries, and optional cooperative missions, Bijoy 71 focuses on character-driven storytelling and accessible gameplay suitable for a wide audience. Carefully crafted visuals, an evocative soundtrack, and period-authentic details create a moving tribute while keeping gameplay engaging and approachable.",
+  "size": 850,
+  "reviews": "45K",
+  "ratingAvg": 4.6,
+  "downloads": "500K+",
+  "ratings": [
+    { "name": "1 star", "count": 1200 },
+    { "name": "2 star", "count": 800 },
+    { "name": "3 star", "count": 5400 },
+    { "name": "4 star", "count": 12000 },
+    { "name": "5 star", "count": 30400 }
+  ]
 }
+,
+{
+  "image": "https://i.ibb.co.com/GfmTTYHt/Need-for-Speed-Most-Wanted-Box-Art.jpg",
+  "title": "Need for Speed: Most Wanted",
+  "companyName": "Electronic Arts",
+  "id": 30,
+  "description": "Need for Speed: Most Wanted is a high-octane racing game that combines intense street racing with open-world exploration. Players compete to become the Most Wanted driver by outrunning cops, challenging rivals, and customizing powerful cars. The game offers dynamic police pursuits, realistic car physics, and a massive selection of vehicles ranging from street tuners to exotic supercars.\n\nFeaturing stunning visuals, a seamless open world, and adrenaline-fueled gameplay, Most Wanted gives players the freedom to race, explore, and evade law enforcement across Fairhaven City. With its mix of competition and chaos, it remains one of the most iconic and thrilling titles in the Need for Speed franchise.",
+  "size": 32000,
+  "reviews": "8M",
+  "ratingAvg": 4.7,
+  "downloads": "550M+",
+  "ratings": [
+    { "name": "1 star", "count": 200000 },
+    { "name": "2 star", "count": 150000 },
+    { "name": "3 star", "count": 600000 },
+    { "name": "4 star", "count": 1800000 },
+    { "name": "5 star", "count": 6250000 }
+  ]
+},
+
+{
+  "image": "https://i.ibb.co.com/prvv2P5T/Logo-of-Bangladesh-Railway-svg.png",
+  "title": "Rail Sheba",
+  "companyName": "Rail Services Ltd.",
+  "id": 31,
+  "description": "Rail Sheba is an innovative railway service app that helps passengers plan their train journeys efficiently. Users can check train schedules, book tickets, receive real-time updates, and track trains live. The app also provides notifications for delays, platform changes, and offers tips for a smooth travel experience.\n\nWith a user-friendly interface, secure booking system, and detailed train information, Rail Sheba makes rail travel more convenient and stress-free for commuters across the country.",
+  "size": 150,
+  "reviews": "500K",
+  "ratingAvg": 4.5,
+  "downloads": "5M+",
+  "ratings": [
+    { "name": "1 star", "count": 5000 },
+    { "name": "2 star", "count": 8000 },
+    { "name": "3 star", "count": 25000 },
+    { "name": "4 star", "count": 120000 },
+    { "name": "5 star", "count": 325000 }
+  ]
+}
+
 
 
 ]

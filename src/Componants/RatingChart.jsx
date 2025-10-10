@@ -18,9 +18,9 @@ const RatingChart = ({ ratingData }) => {
         data={reversedData}
         layout="vertical"
         margin={{
-          top: 5,
+          top: 10,
           right: 20,
-          left: 10,
+          left: -13,
           bottom: 5,
         }}
       >
