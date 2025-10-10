@@ -151,30 +151,44 @@
     "downloads": "145M",
     "ratings": [{"name": "1 star", "count": 750000}, {"name": "2 star", "count": 450000}, {"name": "3 star", "count": 900000}, {"name": "4 star", "count": 2250000}, {"name": "5 star", "count": 10650000}]
   },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png",
-    "title": "Spotify: Music and Podcasts",
-    "companyName": "Spotify AB",
-    "id": 10,
-    "description": "Spotify is a comprehensive audio streaming service that gives you access to a massive world of music and podcasts. With millions of tracks from artists all over the globe, it allows you to listen to your favorite songs, discover new music, and create personalized playlists for any mood or moment. The service is built around discovery, helping you find your next favorite song or podcast with ease. Its clean interface and reliable performance make it a leading choice for audio streaming.\n\nThe app's standout feature is its powerful personalization engine. Curated playlists like 'Discover Weekly' and 'Release Radar' are tailored specifically to your listening habits, introducing you to new music you're likely to love. You can also create collaborative playlists with friends, see what others are listening to, and use Spotify Connect to seamlessly switch playback between your phone, speaker, and other devices. The platform is also a major destination for podcasts, offering a vast library of shows on every topic imaginable.\n\nFor music lovers and podcast enthusiasts, Spotify is an essential service. It’s a gateway to an almost infinite library of audio content, all organized and personalized for you. Whether you're looking for the perfect workout playlist, a podcast for your commute, or just want to explore new genres, Spotify provides the tools to soundtrack your life. It's a personal DJ that understands your taste and constantly helps you discover more of what you love.",
-    "size": 80,
-    "reviews": "28M",
-    "ratingAvg": 4.7,
-    "downloads": "13B+",
-    "ratings": [{"name": "1 star", "count": 840000}, {"name": "2 star", "count": 560000}, {"name": "3 star", "count": 1120000}, {"name": "4 star", "count": 3360000}, {"name": "5 star", "count": 22120000}]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
-    "title": "Netflix",
-    "companyName": "Netflix, Inc.",
-    "id": 11,
-    "description": "Netflix is a leading subscription-based streaming service that offers a vast library of TV shows, movies, documentaries, and anime across a wide variety of genres. It provides on-demand, ad-free viewing, allowing you to watch as much as you want, whenever you want. The platform is designed for a personalized and cinematic experience, bringing a world of entertainment directly to your favorite screen, whether it's a TV, laptop, or mobile device. Its intuitive interface makes browsing and discovering content simple and enjoyable.\n\nA key strength of Netflix is its massive investment in award-winning original content. 'Netflix Originals' include some of the most talked-about series and films, offering exclusive programming you can't find anywhere else. The service's recommendation algorithm is highly sophisticated, learning your viewing habits to suggest titles you're likely to enjoy. Features like multiple user profiles, parental controls, and the ability to download content for offline viewing make it a versatile and family-friendly entertainment hub.\n\nFor anyone seeking high-quality, on-demand entertainment, Netflix is an essential subscription. It has fundamentally changed how we watch television and movies, offering freedom and choice to the viewer. With a constantly updated library and a steady stream of exclusive new releases, there's always something new to discover. It’s your personal cinema, ready to play your next favorite show or movie at the touch of a button.",
-    "size": 60,
-    "reviews": "12M",
-    "ratingAvg": 4.4,
-    "downloads": "9B+",
-    "ratings": [{"name": "1 star", "count": 720000}, {"name": "2 star", "count": 480000}, {"name": "3 star", "count": 840000}, {"name": "4 star", "count": 1800000}, {"name": "5 star", "count": 8160000}]
-  },
+{
+  "image": "https://i.ibb.co/sv66QcXH/Git-Hub-Invertocat-Logo-svg.png",
+  "title": "GitHub:Host code Easily",
+  "companyName": "GitHub, Inc.",
+  "id": 10,
+  "description": "GitHub is a web-based platform used for version control and collaborative software development. It allows developers to store, manage, and track changes to code projects. With features like pull requests, issues, and project boards, teams can work together efficiently on projects of any size.\n\nThe platform supports both public and private repositories, enabling open-source projects and private enterprise projects alike. GitHub also integrates with numerous CI/CD tools, cloud services, and code editors, making it a central hub for development workflows.\n\nFor developers and teams, GitHub is essential for managing code, collaborating on software, and maintaining a history of changes. Its community-driven ecosystem fosters learning, sharing, and discovering new projects.",
+  "size": 150,
+  "reviews": "15M",
+  "ratingAvg": 4.8,
+  "downloads": "1B+",
+  "ratings": [
+    { "name": "1 star", "count": 120000 },
+    { "name": "2 star", "count": 80000 },
+    { "name": "3 star", "count": 200000 },
+    { "name": "4 star", "count": 900000 },
+    { "name": "5 star", "count": 13600000 }
+  ]
+}
+,
+{
+  "image": "https://i.ibb.co/4Z9V1XFC/Red-Dead-Redemption.jpg",
+  "title": "Red Dead Redemption",
+  "companyName": "Rockstar Games",
+  "id": 11,
+  "description": "Red Dead Redemption is an open-world action-adventure game set in the late 1800s American frontier. Players take on the role of a rugged outlaw navigating a world full of missions, duels, exploration, and interactions with a living ecosystem of NPCs and wildlife. The game combines a compelling storyline with freedom to explore towns, forests, and deserts.\n\nPlayers can engage in horseback riding, gunfights, bounty hunting, treasure hunting, and interacting with townsfolk. The dynamic environment, realistic graphics, and immersive gameplay provide hours of entertainment. Red Dead Redemption is perfect for gamers who enjoy action, exploration, and narrative-driven open-world experiences.",
+  "size": 5000,
+  "reviews": "20M",
+  "ratingAvg": 4.9,
+  "downloads": "50M+",
+  "ratings": [
+    { "name": "1 star", "count": 200000 },
+    { "name": "2 star", "count": 150000 },
+    { "name": "3 star", "count": 500000 },
+    { "name": "4 star", "count": 4000000 },
+    { "name": "5 star", "count": 16000000 }
+  ]
+}
+,
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
     "title": "YouTube",
