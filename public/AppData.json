@@ -392,18 +392,25 @@
   ]
 }
 ,
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dropbox_logo_2017.svg/2560px-Dropbox_logo_2017.svg.png",
-    "title": "Dropbox: Cloud Photo Storage",
-    "companyName": "Dropbox, Inc.",
-    "id": 26,
-    "description": "Dropbox is a modern workspace designed to reduce busywork, bringing your cloud content and traditional files together in one central place. It provides a reliable solution for cloud storage, file synchronization, and sharing, allowing you to keep all your important files safe and accessible. Whether it's photos, videos, or documents, Dropbox creates a synchronized folder that you can access from your computer, phone, or any web browser. It simplifies your digital life by creating one organized home for your content.\n\nA key feature of Dropbox is its simplicity and reliability in file syncing. Any change you make to a file in your Dropbox is automatically updated across all your devices. The app includes a document scanner to turn receipts and whiteboards into PDFs, and an automatic camera upload feature to back up photos and videos from your phone. Sharing files is secure and easy, allowing you to send large files to anyone, even if they don't have a Dropbox account, with a simple link.\n\nFor individuals and teams looking to stay organized and collaborative, Dropbox is a powerful tool. It provides peace of mind by securely backing up your most important files and making them available whenever you need them. By streamlining file management and sharing, it allows you to focus on the work that matters. Dropbox is your personal cloud that keeps you in sync and helps you work smarter.",
-    "size": 92,
-    "reviews": "2M",
-    "ratingAvg": 4.5,
-    "downloads": "21B+",
-    "ratings": [{"name": "1 star", "count": 100000}, {"name": "2 star", "count": 60000}, {"name": "3 star", "count": 120000}, {"name": "4 star", "count": 300000}, {"name": "5 star", "count": 1420000}]
-  },
+{
+  "image": "https://i.ibb.co.com/KcJBk6tM/Grand-Theft-Auto-V.png",
+  "title": "Grand Theft Auto V",
+  "companyName": "Rockstar Games",
+  "id": 26,
+  "description": "Grand Theft Auto V (GTA V) is an open-world action-adventure game developed by Rockstar North and published by Rockstar Games. Set in Los Santos and Blaine County, it follows three protagonists—Michael, Franklin, and Trevor—as they pull off high-stakes heists in a massive, dynamic world. The game offers a cinematic single-player experience and GTA Online, a thriving multiplayer mode with endless possibilities for exploration, crime, and creativity.",
+  "size": 105107,
+  "reviews": "12M",
+  "ratingAvg": 4.8,
+  "downloads": "215M+",
+  "ratings": [
+    { "name": "1 star", "count": 500000 },
+    { "name": "2 star", "count": 300000 },
+    { "name": "3 star", "count": 800000 },
+    { "name": "4 star", "count": 2500000 },
+    { "name": "5 star", "count": 8400000 }
+  ]
+}
+,
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/2048px-Shazam_icon.svg.png",
     "title": "Shazam: Find Music",
