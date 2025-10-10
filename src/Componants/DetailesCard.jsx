@@ -91,7 +91,7 @@ const DetailesCard = ({ findData }) => {
             </div>
           </div>
 
-          {/* Original Install button centered for mobile/tablet */}
+          {/*  Install button centered for mobile/tablet */}
           <div className="mt-5 flex justify-center lg:hidden">
             <button
               onClick={() => handleAddData(id, title)}
