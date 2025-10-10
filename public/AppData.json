@@ -498,6 +498,25 @@
     { "name": "5 star", "count": 325000 }
   ]
 }
+, 
+{
+  "image": "https://i.ibb.co.com/wFJqPzRB/Firefox-logo-2019-svg.png",
+  "title": "Mozilla Firefox",
+  "companyName": "Mozilla Foundation",
+  "id": 32,
+  "description": "Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. It uses the Gecko rendering engine to display web pages, which implements current and anticipated web standards. Firefox is available for Windows, macOS, Linux, Android, and iOS platforms. Known for its speed, privacy features, and customization options, Firefox offers users a secure and efficient browsing experience.",
+  "size": 150,
+  "reviews": "500K",
+  "ratingAvg": 4.4,
+  "downloads": "500M+",
+  "ratings": [
+    { "name": "1 star", "count": 100000 },
+    { "name": "2 star", "count": 50000 },
+    { "name": "3 star", "count": 100000 },
+    { "name": "4 star", "count": 150000 },
+    { "name": "5 star", "count": 100000 }
+  ]
+}
 
 
 
